@@ -3,9 +3,9 @@ The objective of this notebook is to investigate various manifold learning techn
 
 This notebook will cover the following manifold learning algorithms:
 
-Principal Component Analysis (PCA)
-Isomap Embedding
-Locally Linear Embedding (LLE)
-Multidimensional Scaling (MDS)
-Spectral Embedding
-t-Distributed Stochastic Neighbor Embedding (t-SNE)
+- Principal Component Analysis (PCA)
+- Isomap Embedding
+- Locally Linear Embedding (LLE)
+- Multidimensional Scaling (MDS)
+- Spectral Embedding
+- t-Distributed Stochastic Neighbor Embedding (t-SNE)
